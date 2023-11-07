@@ -6,12 +6,12 @@
 
 @font-face {
     font-family: "Roboto";
-    src: url(fonts/Roboto/);
+    src: url(fonts/Roboto/Roboto-Medium.ttf);
 }
 
 @font-face {
     font-family: "Gelasio";
-    src: url(fonts/Gelasio/);
+    src: url(fonts/Gelasio/Gelasio-Medium.ttf);
 }
 
 * {
