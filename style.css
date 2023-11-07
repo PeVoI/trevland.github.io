@@ -1,17 +1,17 @@
 @font-face {
     font-family: "Ribeye";
-    src: url(/fonts/Ribeye/Ribeye-Regular.ttf);
+    src: url(fonts/Ribeye/Ribeye-Regular.ttf);
 }
 
 
 @font-face {
     font-family: "Roboto";
-    src: url(/fonts/Roboto/);
+    src: url(fonts/Roboto/);
 }
 
 @font-face {
     font-family: "Gelasio";
-    src: url(/fonts/Gelasio/);
+    src: url(fonts/Gelasio/);
 }
 
 * {
